@@ -1,6 +1,5 @@
-https://www.allrecipes.com/recipe/21412/tiramisu-ii/ 
+[Reference Recipe](https://www.allrecipes.com/recipe/21412/tiramisu-ii/ )
  
-
 ## Notes
 - Mascarpone needs to be at room temp 
 - Let it set overnight at least; ~2 nights best 
@@ -8,13 +7,12 @@ https://www.allrecipes.com/recipe/21412/tiramisu-ii/
 - 2 flips is good.  4 flips a little soggy 
 
 ## Brands
-- Coffee &ensp;&ensp;&ensp;&ensp; = Small Nespresso (Roma [Gray])
+- Coffee &ensp;&ensp;&ensp;&ensp;&ensp;= Small Nespresso (Roma [Gray])
 - Ladyfingers &nbsp;= o365, Savoiardi
 - Rum &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; = Meyers dark Jamaican rum 
 - Mascarpone  = Pelonghi 8.8oz (Whole foods); Vermont also decent
 
 ## Ingredients
-
 |             | Full                                                                                                            | Half |
 |-------------|---------------------------------------------------------------------                                            |------|
 | Custard     |- 6 large egg yolks <br /> - ¾ cup white sugar <br /> - ⅔ cup milk                                               |- 3 large egg yolks <br /> - 6 tablespoons  white sugar (¼ cup + 2 tablespoon) <br /> - 1/3 cup milk |
