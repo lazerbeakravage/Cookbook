@@ -11,15 +11,15 @@ https://www.allrecipes.com/recipe/21412/tiramisu-ii/
 - Coffee &ensp;&ensp;&ensp;&ensp; = Small Nespresso (Roma [Gray])
 - Ladyfingers &nbsp;= o365, Savoiardi
 - Rum &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; = Meyers dark Jamaican rum 
-- Marscapone  = Pelonghi 8.8oz (Whole foods); Vermont also decent
+- Mascarpone  = Pelonghi 8.8oz (Whole foods); Vermont also decent
 
 ## Ingredients
 
 |             | Full                                                                                                            | Half |
 |-------------|---------------------------------------------------------------------                                            |------|
-| Custard     |- 6 large egg yolks <br /> - ¾ cup white sugar <br /> - ⅔ cup milk                                               |- 3 large egg yolks <br /> - 6 tablespoons  white sugar (1/4 cup + 2 tablespoon) <br /> - 1/3 cup milk |
+| Custard     |- 6 large egg yolks <br /> - ¾ cup white sugar <br /> - ⅔ cup milk                                               |- 3 large egg yolks <br /> - 6 tablespoons  white sugar (¼ cup + 2 tablespoon) <br /> - 1/3 cup milk |
 | Filling     |- 1 ¼ cups heavy cream <br /> - ½ teaspoon vanilla extract <br /> - 1 pound mascarpone cheese                    | - ½ cup and 2 tablespoons heavy cream <br /> - ¼ teaspoon vanilla extract <br /> - ½ pound mascarpone cheese
-| Ladyfingers |- ~1 cup espresso (6 small nespresso) <br /> - 2.5-3 tablespoons rum <br /> - 2x 3oz packages ladyfingers <br /> - 1 tablespoon unsweetened cocoa powder                                                                                             | - ~1/2 cup espresso - (3 small nespresso) <br /> - 1-1.5 tablespoon rum <br /> - 1x 3oz packages ladyfingers <br /> - ½ tablespoon unsweetened cocoa powder
+| Ladyfingers |- ~1 cup espresso (6 small nespresso) <br /> - 2.5-3 tablespoons rum <br /> - 2x 3oz packages ladyfingers <br /> - 1 tablespoon unsweetened cocoa powder                                                                                             | - ~½ cup espresso - (3 small nespresso) <br /> - 1-1.5 tablespoon rum <br /> - 1x 3oz packages ladyfingers <br /> - ½ tablespoon unsweetened cocoa powder
 
 ## Custard 
 1. Whisk together egg yolks and sugar in a medium saucepan until well blended.  
@@ -34,6 +34,6 @@ https://www.allrecipes.com/recipe/21412/tiramisu-ii/
 ## Ladyfingers
 1. Combine coffee and rum in a small bowl. 
 2. Roll ladyfingers in coffee/rum
-3. Arrange 1/2 of the soaked ladyfingers
-4. Spread 1/2 of the mascarpone mixture over the ladyfingers
+3. Arrange ½ of the soaked ladyfingers
+4. Spread ½ of the mascarpone mixture over the ladyfingers
 5. Sprinkle cocoa powder over top  
