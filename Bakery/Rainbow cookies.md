@@ -30,8 +30,3 @@ Ribbon Cookies
 #### Frosting
 - Melt chocolate chips in double boiler and pour over top of red layer and spread evenly. 
 - Allow chocolate to set until dry (about 5 minutes; do not allow to dry too much or will crack when cut) 
-
-
-
-
-
