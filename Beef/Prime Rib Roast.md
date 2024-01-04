@@ -2,6 +2,10 @@
 
 ## Ingredients
 
+#### Dry aging
+- Wrap in at least three layers of the cheesecloth, which will allow air flow while preventing the outer surface of the roast from hardening. 
+- Position the wrapped roast so that the ribs are facing downward and stash on the lower level of the refrigerator (set no lower than 34°F and no higher than 38°F) for 5 to 7 days. There’s no need to change the cheesecloth during this time.
+  
 #### 3 rib roast
 - 2 tbsp kosher salt
 - 1 tbsp fresh ground black pepper
@@ -13,10 +17,6 @@
 - 2 cups whole milk
 - 2 cups (280g) flour
 - 1.5 tsp salt
-
-#### Dry aging
-- Wrap in at least three layers of the cheesecloth, which will allow air flow while preventing the outer surface of the roast from hardening. 
-- Position the wrapped roast so that the ribs are facing downward and stash on the lower level of the refrigerator (set no lower than 34°F and no higher than 38°F) for 5 to 7 days. There’s no need to change the cheesecloth during this time.
 
 ## Roasting
 1.  Initial roasting
