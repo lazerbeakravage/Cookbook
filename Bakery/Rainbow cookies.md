@@ -13,7 +13,7 @@ Ribbon Cookies
 ## It's cooking time!
 350 degrees - 15 min 
 
-- Line 3 - 9.5" X 13" jelly roll pans with parchment paper (Costco sells a 3-pack for $15)
+- Line 3x 9.5" X 13" jelly roll pans with parchment paper (Costco sells a 3-pack for $15)
 - Combine almond filling, sugar, butter, and egg yolks. 
 - Mix in flour
 - Whip egg whites until stiff

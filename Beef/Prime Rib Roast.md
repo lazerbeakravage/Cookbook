@@ -20,7 +20,7 @@
 
 ## Roasting
 1.  Initial roasting
-    - Place a probe thermometer into the center of the roast and set its alarm for #rgb[118°F (red=f00)].
+    - Place a probe thermometer into the center of the roast and set its alarm for <span style="color:red"><b>118°F</b></span>.
 
     - Set the roast on the lower middle rack in a cold oven and turn the oven to <span style="color:red"><b>250°F</b></span>.
 
