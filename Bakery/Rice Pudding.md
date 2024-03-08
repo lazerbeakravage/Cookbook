@@ -20,3 +20,5 @@
 - Combine cooked rice, 1 1/2 cups milk, sugar, and salt in a clean saucepan. Cook over medium heat, stirring often, until thick and creamy, about 15 minutes.
 
 - Stir in remaining 1/2 cup milk, beaten egg, and raisins; cook 2 minutes more, stirring constantly. Remove from heat and stir in butter and vanilla until combined; serve warm.
+
+Needs extra 1.5cups milk. Cook till soupy
