@@ -1,5 +1,6 @@
 [Reference Recipe](https://www.allrecipes.com/recipe/26317/chicken-pot-pie-ix/)
 
+## Ingredients
 
 - 1 pound chicken (leftover rotisserie chicken)
 - 1 cup sliced carrots

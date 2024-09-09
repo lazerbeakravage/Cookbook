@@ -25,7 +25,7 @@ Ribbon Cookies (from Christina Chen)
 - Cover with one of the jelly roll pans
 - Refrigerate overnight (or at least 4-6 hrs) weighted down to set the layers. (I throw a heavy book or 2 on top).
 
-### Next day
+## Next day
 
 #### Frosting
 - Melt chocolate chips in double boiler and pour over top of red layer and spread evenly. 

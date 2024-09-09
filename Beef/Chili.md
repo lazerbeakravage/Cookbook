@@ -1,5 +1,6 @@
 [Reference Recipe](https://eatpallet.com/outback-tasmanian-chili-recipe/)
 
+## Ingredients
 - 1 lb steak
 - 1 can diced tomatoes, undrained
 - 1 small onion, diced

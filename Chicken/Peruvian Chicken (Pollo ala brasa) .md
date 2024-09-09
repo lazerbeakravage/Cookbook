@@ -4,6 +4,8 @@ http://www.sandravalvassori.com/peruvian-chicken-pollo-a-la-brasa-with-aji-green
 
 Good for 5-6+ thighs
 
+## Ingredients
+
 - 1 tbsp paprika (not smoked)
 - 2 tbsp cumin
 - 1 tsp dried oregano
