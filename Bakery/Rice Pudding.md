@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 1 ½ cups cold water
-- ¾ cup uncooked white rice
+- ¾ cup uncooked white rice (long grain)
 - 2 cups milk, divided --needs a lot more.  double?
 - ⅓ cup white sugar
 - ¼ teaspoon salt
