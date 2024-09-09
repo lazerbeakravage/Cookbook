@@ -4,7 +4,7 @@
 
 - 1 ½ cups cold water
 - ¾ cup uncooked white rice
-- 2 cups milk, divided
+- 2 cups milk, divided --needs a lot more.  double?
 - ⅓ cup white sugar
 - ¼ teaspoon salt
 - 1 egg, beaten
@@ -15,7 +15,9 @@
 
 ## It's cooking time
 
-- Pour water into a saucepan and bring to a boil over medium heat; stir in rice. Reduce heat to low, cover, and simmer until rice is tender and liquid has been absorbed, about 20 minutes.
+- Pour water into a saucepan and bring to a boil over medium heat; stir in rice.
+ 
+- Reduce heat to low, cover, and simmer until rice is tender and liquid has been absorbed, about 20 minutes.
 
 - Combine cooked rice, 1 1/2 cups milk, sugar, and salt in a clean saucepan. Cook over medium heat, stirring often, until thick and creamy, about 15 minutes.
 

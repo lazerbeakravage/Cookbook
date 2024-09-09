@@ -1,4 +1,4 @@
-Ribbon Cookies
+Ribbon Cookies (from Christina Chen)
 
 ## Ingredients
 - 1 can almond filling
@@ -18,7 +18,7 @@ Ribbon Cookies
 - Mix in flour
 - Whip egg whites until stiff
 - Fold in egg whites
-- Seperate batter into 3 equal amounts (About 16.2 oz.) Color 1 - Red, 1 - Green, 1 - Plain
+- Separate batter into 3 equal amounts (About 16.2 oz.) Color 1 - Red, 1 - Green, 1 - Plain
 - Spread each batter into a parchment lined jelly roll pan
 - Bake for 15 min at 350 degrees
 - After cooled, green layer goes 1st, then a thin layer of raspberry jam (about 3 oz), then white layer, apricot jam (about 3oz), then red layer.
