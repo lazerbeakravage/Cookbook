@@ -3,8 +3,8 @@
 ## Ingredients
 
 - 1 ½ cups cold water
-- ¾ cup uncooked white rice (long grain)
 - 2 cups milk, divided --needs a lot more.  double?
+- ¾ cup uncooked white rice (long grain)
 - ⅓ cup white sugar
 - ¼ teaspoon salt
 - 1 egg, beaten
@@ -14,6 +14,8 @@
 
 
 ## It's cooking time
+
+Water:Rice | 2:1
 
 - Pour water into a saucepan and bring to a boil over medium heat; stir in rice.
  

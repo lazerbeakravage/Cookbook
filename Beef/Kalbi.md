@@ -3,7 +3,7 @@
 ## Notes
 For 3 lbs meat 
 
-### Ingredients
+## Ingredients
 - 4-5 Garlic cloves
 - Scallions
 - 3 tbsp sugar 
