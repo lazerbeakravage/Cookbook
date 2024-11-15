@@ -1,19 +1,24 @@
 [Reference Recipe](https://www.allrecipes.com/recipe/21412/tiramisu-ii/ )
  
 ## Notes
-- Mascarpone needs to be at room temp 
+- Mascarpone needs to be at room temp
 - Let it set overnight at least; ~2 nights best 
 - ~3 nespresso : 1.5 tbsp rum? 
 - 2 flips is good.  4 flips a little soggy 
 
 ### Brands
-- Coffee &ensp;&ensp;&ensp;&ensp;&ensp;= Small Nespresso (Roma [Gray])
-- Ladyfingers &nbsp;= o365
+- Coffee 
+  - Small Nespresso ( Roma [Gray] )
+- Ladyfingers
+  - o365 ( Whole foods )
   - Savoiardi
   - Goya?
-- Rum &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; = Meyers dark Jamaican rum 
-- Mascarpone  = Pelonghi 8.8oz (Whole foods); 
-  - Vermont also decent but not as smooth
+- Rum 
+  - Meyers dark Jamaican rum 
+- Mascarpone  
+  - Pelonghi 8.8oz ( Whole foods )
+  - Belgioso is decent.  a little thicker
+  - Vermont is decent but not as smooth
 
 ## Ingredients
 |             |                 Full                                  |                    Half                  |
