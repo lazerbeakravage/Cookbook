@@ -12,16 +12,16 @@
 - Ladyfingers
   - o365 ( Whole foods )
   - Savoiardi
-  - Goya?
+  - Goya
 - Rum 
   - Meyers dark Jamaican rum 
 - Mascarpone  
   - Pelonghi 8.8oz ( Whole foods )
   - Belgioso is decent.  a little thicker
   - Vermont is decent but not as smooth
-7 15/16 in. x 57/16 in. x 1 13/16 in 
+
 ## Ingredients
-|             |                 Full                                  |                    Half                  |
+|             |Full <br> **7 15/16 in. x 57/16 in. x 1 13/16 in <br> (can be a tad thinner but bare min height)**|                    Half                  |
 |-------------|-------------------------------------------------------|------------------------------------------|
 | Custard     |- 6 large egg yolks <br /> - ¾ cup white sugar <br /> - ⅔ cup milk |- 3 large egg yolks <br /> - 6 tablespoons  white sugar (¼ cup + 2 tablespoon) <br /> - 1/3 cup milk |
 | Filling     |- 1 ¼ cups heavy cream <br /> - ½ teaspoon vanilla extract <br /> - 1 pound mascarpone cheese | - ½ cup and 2 tablespoons heavy cream <br /> - ¼ teaspoon vanilla extract <br /> - ½ pound mascarpone cheese
