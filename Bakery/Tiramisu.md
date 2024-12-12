@@ -19,7 +19,7 @@
   - Pelonghi 8.8oz ( Whole foods )
   - Belgioso is decent.  a little thicker
   - Vermont is decent but not as smooth
-
+7 15/16 in. x 57/16 in. x 1 13/16 in 
 ## Ingredients
 |             |                 Full                                  |                    Half                  |
 |-------------|-------------------------------------------------------|------------------------------------------|
