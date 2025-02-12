@@ -25,4 +25,4 @@ Water:Rice | 2:1
 
 - Stir in remaining 1/2 cup milk, beaten egg, and raisins; cook 2 minutes more, stirring constantly. Remove from heat and stir in butter and vanilla until combined; serve warm.
 
-Needs extra 1.5cups milk. Cook till soupy
+Needs extra 3/4 cup milk. Cook till soupy
