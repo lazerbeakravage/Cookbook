@@ -6,7 +6,7 @@
 - 8 tbsp butter (this can be cut down by half)
 - 1 onion
 - 3 cloves garlic
-- 1 can crushed tomatoes
+- 1 can (15oz) crushed tomatoes
 - 2 tbsp tomato paste
 - 1 1/2 pounds beef
 - 1/2 cup red wine
