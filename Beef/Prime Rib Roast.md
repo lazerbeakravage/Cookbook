@@ -1,5 +1,18 @@
 [Reference Recipe](https://www.youtube.com/watch?v=_G2Ifc8SAbU&t=103s)
 
+7/2/25
+dry aged 2 days - 9 pounds
+3 tsp mcormick truffle salt
+black pepper 
+thyme
+day before, salt and pepper - uncovered
+cooking day, add thyme
+
+pull from fridge 2 hours before.
+~1 hour for 1 bone.
+pull at ~110 degrees
+make yorkshire pudding
+
 ## Ingredients
 
 #### Dry aging
